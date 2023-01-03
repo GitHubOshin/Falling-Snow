@@ -1,5 +1,5 @@
-# Falling-Snow
+# JAVASCRIPT 21 DAYS CHALLENGE
 
-Falling Snow | JavaScript 21 Days Challenge EP. 1
-YouTube : PasaComputer
-https://youtu.be/oKY8tJLA5nU
+#### [Falling Snow | JavaScript 21 Days Challenge EP. 1](https://youtu.be/oKY8tJLA5nU)
+
+Folder : 1-falling-snow
